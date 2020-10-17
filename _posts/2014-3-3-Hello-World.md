@@ -17,5 +17,10 @@ Lee Byung-chul nació en el seno de una familia adinerada que pudo mandarle a la
 
 ![samsung]({{ site.baseurl }}/images/EMPRESA.jpg)
 
+## Centrados en mejorar el consumo electrónico
+
+Pero por si algo es conocida Samsung es por sus productos dedicados al consumo electrónico y este es un área en el que la empresa ha profundizado bastante y buscando convertirse en el líder que es ahora.
+
+
 
 
