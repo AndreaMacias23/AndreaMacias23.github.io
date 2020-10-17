@@ -25,7 +25,7 @@ Pero por si algo es conocida Samsung es por sus productos dedicados al consumo e
 
 ## Proposito 
 
-Cuando hablamos de internet de las cosas no podemos dejar de resaltar una de las apuestas de samsung, se trata de Family Hub. Esta tiene como finalidad hacer un vínculo directo entre la tecnología, experiencia  de usuario y por supuesto las necesidades cotidianas de este en su día a día.  Aquí podremos encontrar convergencia total en donde sin duda alguna la nube, las aplicaciones inteligentes, el software y hardware serán las estrellas en los hogares inteligentes. 
+Cuando hablamos de internet de las cosas no podemos dejar de resaltar una de las apuestas de samsung, se trata de Family Hub. Esta tiene como finalidad hacer un vínculo directo entre la tecnología, experiencia de usuario y por supuesto las necesidades cotidianas de este en su día a día.  Aquí podremos encontrar convergencia total en donde sin duda alguna la nube, las aplicaciones inteligentes, el software y hardware serán las estrellas en los hogares inteligentes. 
 
 ![samsung]({{ site.baseurl }}/images/sistem.jpg)
 
