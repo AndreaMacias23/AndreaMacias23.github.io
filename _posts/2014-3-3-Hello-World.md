@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡SAMSUNG!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## SAMSUNG HISTORY
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Samsung es El Gigante de Corea del Sur
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Sí, verdura. En 1938 Lee Byung-chul, de la provincia de Gyeongsang creó una empresa de exportación y la llamó Samsung (que en coreano significa tres estrellas, de ahí su logo inicial). Al principio, su empresa se dedicaba principalmente a la exportación comercial, en concreto, a la venta de pescado coreano seco, de verduras y de fruta a Manchuria y a Pequín.
